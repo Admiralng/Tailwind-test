@@ -2,7 +2,7 @@
  My breathrough tailwindcss project
 
 # Hosted Pages of the Repo:
-https:
+https: https://admiralng.github.io/Tailwind-test/
 
 # 🛠 Skills
 HTML, TailwindCSS, JavaScript....
